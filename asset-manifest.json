@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/seelasudheer/UserTimings/static/css/main.5f361e03.chunk.css",
+    "main.js": "/seelasudheer/UserTimings/static/js/main.7ecd262d.chunk.js",
+    "main.js.map": "/seelasudheer/UserTimings/static/js/main.7ecd262d.chunk.js.map",
+    "runtime-main.js": "/seelasudheer/UserTimings/static/js/runtime-main.7a75d50d.js",
+    "runtime-main.js.map": "/seelasudheer/UserTimings/static/js/runtime-main.7a75d50d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/seelasudheer/UserTimings/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.abbb0bb3.chunk.js": "/seelasudheer/UserTimings/static/js/2.abbb0bb3.chunk.js",
+    "static/js/2.abbb0bb3.chunk.js.map": "/seelasudheer/UserTimings/static/js/2.abbb0bb3.chunk.js.map",
+    "index.html": "/seelasudheer/UserTimings/index.html",
+    "precache-manifest.ba099bdd479a2c5fb062ba0197794c5e.js": "/seelasudheer/UserTimings/precache-manifest.ba099bdd479a2c5fb062ba0197794c5e.js",
+    "service-worker.js": "/seelasudheer/UserTimings/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/seelasudheer/UserTimings/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/seelasudheer/UserTimings/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.abbb0bb3.chunk.js.LICENSE.txt": "/seelasudheer/UserTimings/static/js/2.abbb0bb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a75d50d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.abbb0bb3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7ecd262d.chunk.js"
+  ]
+}
